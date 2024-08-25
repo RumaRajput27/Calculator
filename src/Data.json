@@ -1,0 +1,23 @@
+[
+  { "id": 0, "digit": "1" },
+  { "id": 1, "digit": "2" },
+  { "id": 2, "digit": "3" },
+  { "id": 3, "digit": "4" },
+  { "id": 4, "digit": "5" },
+  { "id": 5, "digit": "6" },
+  { "id": 6, "digit": "7" },
+  { "id": 7, "digit": "8" },
+  { "id": 8, "digit": "9" },
+  { "id": 9, "digit": "0" },
+  { "id": 10, "digit": "." },
+
+  {
+    "operators": [
+      { "id": 0, "operator": "+" },
+      { "id": 1, "operator": "-" },
+      { "id": 2, "operator": "*" },
+      { "id": 3, "operator": "/" },
+      { "id": 4, "operator": "%" }
+    ]
+  }
+]
